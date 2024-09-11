@@ -22,6 +22,8 @@ namespace Escuela_P2_Herencia.Clases
             set { _cursosImpartidos = value; }
         }
 
+        public void AgregarCurso(Curso curso) { CursosImpartidos.Add(curso); }
+
         public override string ToString()
         {
             string mensaje = base.ToString() + $"\nCursos impardidos: ";
