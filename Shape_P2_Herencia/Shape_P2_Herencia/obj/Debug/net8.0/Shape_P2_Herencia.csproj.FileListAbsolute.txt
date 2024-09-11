@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Shape_P2_Herencia\Shape_P2_Herencia\bin\Debug\net8.0\Shape_P2_Herencia.exe
+C:\Users\user\source\repos\Shape_P2_Herencia\Shape_P2_Herencia\bin\Debug\net8.0\Shape_P2_Herencia.deps.json
+C:\Users\user\source\repos\Shape_P2_Herencia\Shape_P2_Herencia\bin\Debug\net8.0\Shape_P2_Herencia.runtimeconfig.json
+C:\Users\user\source\repos\Shape_P2_Herencia\Shape_P2_Herencia\bin\Debug\net8.0\Shape_P2_Herencia.dll
+C:\Users\user\source\repos\Shape_P2_Herencia\Shape_P2_Herencia\bin\Debug\net8.0\Shape_P2_Herencia.pdb
+C:\Users\user\source\repos\Shape_P2_Herencia\Shape_P2_Herencia\obj\Debug\net8.0\Shape_P2_Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Shape_P2_Herencia\Shape_P2_Herencia\obj\Debug\net8.0\Shape_P2_Herencia.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Shape_P2_Herencia\Shape_P2_Herencia\obj\Debug\net8.0\Shape_P2_Herencia.AssemblyInfo.cs
+C:\Users\user\source\repos\Shape_P2_Herencia\Shape_P2_Herencia\obj\Debug\net8.0\Shape_P2_Herencia.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Shape_P2_Herencia\Shape_P2_Herencia\obj\Debug\net8.0\Shape_P2_Herencia.dll
+C:\Users\user\source\repos\Shape_P2_Herencia\Shape_P2_Herencia\obj\Debug\net8.0\refint\Shape_P2_Herencia.dll
+C:\Users\user\source\repos\Shape_P2_Herencia\Shape_P2_Herencia\obj\Debug\net8.0\Shape_P2_Herencia.pdb
+C:\Users\user\source\repos\Shape_P2_Herencia\Shape_P2_Herencia\obj\Debug\net8.0\Shape_P2_Herencia.genruntimeconfig.cache
+C:\Users\user\source\repos\Shape_P2_Herencia\Shape_P2_Herencia\obj\Debug\net8.0\ref\Shape_P2_Herencia.dll
+C:\Users\user\source\repos\Shape_P2_Herencia\Shape_P2_Herencia\obj\Debug\net8.0\Shape_P2_Herencia.sourcelink.json
