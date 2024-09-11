@@ -36,6 +36,9 @@ namespace Escuela_P2_Herencia.Clases
             set { _conjuntoDeEstudiantes = value; }
         }
 
+        public void AgregarProfesor(Profesor profesor) { ConjuntoDeProfesores.Add(profesor); }
+        public void AgregarEstudiante(Estudiante estudiante) { ConjuntoDeEstudiantes.Add(estudiante); }
+
         public override string ToString()
         {
             string mensaje = $"Este es el salón de clases [{IdSalonDeClase}], donde imparten los siguientes profesores: \n";
